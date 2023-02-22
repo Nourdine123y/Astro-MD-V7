@@ -17,3 +17,5 @@ INBOX_BL_MSG: process.env.INBOX_BL_MSG === undefined ? '*Inbox not allowed' : pr
 HOST: process.env.HOST === undefined ? '-' : process.env.HOST,
 SESSION_ID: process.env.SESSION_ID === undefined ? 'ASTRO=ZvZU0bIZ#5eTjIm78cQ6gcTc1ou3t8uehI1FkWzyyz2rz_BmPOuE' : process.env.SESSION_ID
 };
+//👇 212 Number block
+global.NUMBER_212_BLOCK = 'ture'
