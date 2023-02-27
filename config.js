@@ -15,7 +15,7 @@ CAPTION: process.env.CAPTION === undefined ? '*ɢᴇɴᴀʀᴀᴛᴇᴅ ʙʏ ᴀ
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
 INBOX_BL_MSG: process.env.INBOX_BL_MSG === undefined ? '*Inbox not allowed' : process.env.INBOX_BL_MSG,
 HOST: process.env.HOST === undefined ? '-' : process.env.HOST,
-SESSION_ID: process.env.SESSION_ID === undefined ? 'ASTRO=ZvZU0bIZ#5eTjIm78cQ6gcTc1ou3t8uehI1FkWzyyz2rz_BmPOuE' : process.env.SESSION_ID
+SESSION_ID: process.env.SESSION_ID === undefined ? 'ASTRO=43JzATiB#t4lBTKOUnPO9oge7JJab__o3o12x4FYHibLArwVIKQs' : process.env.SESSION_ID
 };
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'ture'
